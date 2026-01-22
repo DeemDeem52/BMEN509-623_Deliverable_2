@@ -1,0 +1,6 @@
+scenario_id,name,body_part_thickness_cm,object_depth_cm,min_resolution_lp_mm,receptor_blur_mm,max_mAs,reference_SID_cm,notes
+1,Chest PA,25,12.0,2.0,0.15,50,180,Standard chest technique
+2,Hand/Wrist,3,1.5,5.0,0.1,10,100,"Extremity technique, fine detail"
+3,Lateral Spine,35,17.0,1.5,0.15,100,180,High mAs for penetration
+4,Skull AP,20,10.0,2.5,0.15,40,100,Table-top technique
+5,Magnification Mammography,5,2.5,10.0,0.05,150,65,Contact + magnification comparison

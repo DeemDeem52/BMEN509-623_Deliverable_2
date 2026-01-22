@@ -1,0 +1,10 @@
+material,expected_hu_low,expected_hu_high,typical_hu,mu_at_70keV_mm_inv,density_g_cm3
+air,-1000,-1000,-1000,0.0,0.0012
+lung,-900,-600,-750,0.005,0.26
+fat,-120,-60,-90,0.016,0.92
+water,-5,5,0,0.019,1.0
+muscle,35,55,45,0.021,1.05
+liver,50,70,60,0.021,1.05
+blood,55,75,65,0.021,1.06
+trabecular_bone,100,300,200,0.025,1.18
+cortical_bone,800,1900,1000,0.038,1.85

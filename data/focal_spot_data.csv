@@ -1,0 +1,4 @@
+spot_type,nominal_size_mm,actual_size_mm,max_power_kW,typical_use
+fine,0.3,0.4,15,"Extremities, mammography, detail work"
+broad,1.0,1.2,80,"General radiography, fluoroscopy, high output"
+micro,0.1,0.15,5,Magnification mammography only

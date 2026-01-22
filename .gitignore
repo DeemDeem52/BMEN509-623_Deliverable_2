@@ -1,0 +1,32 @@
+# Instructor-only files (keep out of student release)
+*-solution.ipynb
+*-rubric*.md
+*-marking-guide.md
+*.tex
+*.aux
+*.log
+*.out
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
